@@ -1,0 +1,20 @@
+[
+    {"from_station": "Gara", "to_station": "Viteazu", "distance": 4.8},
+    {"from_station": "Gara", "to_station": "Dacia", "distance": 3.2},
+    {"from_station": "Gara", "to_station": "Buzau", "distance": 2},
+    {"from_station": "Viteazu", "to_station": "Vivo,", "distance": 4},
+    {"from_station": "Vlaicu", "to_station": "Moldovan", "distance": 7},
+    {"from_station": "B-dul_Muncii", "to_station": "Campina", "distance": 2},
+    {"from_station": "Farmec", "to_station": "Teilor", "distance": 6},
+    {"from_station": "Comanesti", "to_station": "Vuia", "distance": 1.1},
+    {"from_station": "Oser", "to_station": "Cora", "distance": 2.2},
+    {"from_station": "Cora", "to_station": "Borhanci", "distance": 3.4},
+    {"from_station": "Borhanci", "to_station": "Miraslau", "distance": 8.8},
+    {"from_station": "Dacia", "to_station": "Buzau", "distance": 2.9},
+    {"from_station": "Buzau", "to_station": "Central", "distance": 2.2},
+    {"from_station": "Central", "to_station": "Emerson", "distance": 7.3},
+    {"from_station": "Emerson", "to_station": "Anton", "distance": 8},
+    {"from_station": "ParcCentral", "to_station": "Floresti", "distance": 7},
+    {"from_station": "Comanesti", "to_station": "Alba", "distance": 4},
+    {"from_station": "Constanta", "to_station": "Branului", "distance": 1}
+]

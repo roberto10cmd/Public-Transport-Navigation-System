@@ -1,0 +1,37 @@
+[
+    {
+        "line_id": 2,
+        "number": "55",
+        "stations": "Central"
+    },
+    {
+        "line_id": 3,
+        "number": "8",
+        "stations": "Gara, Viteazu"
+    },
+    {
+        "line_id": 4,
+        "number": "56",
+        "stations": "Alba, Constanta, Floresti, Comanesti"
+    },
+    {
+        "line_id": 5,
+        "number": "23",
+        "stations": "Vlaicu, Vuia, B-dul_Muncii, Borhanci, Agro, Emerson"
+    },
+    {
+        "line_id": 6,
+        "number": "45",
+        "stations": "Vivo, Moldovan, ParcCentral, Cora, Miraslau, Dacia, Buzau"
+    },
+    {
+        "line_id": 7,
+        "number": "122",
+        "stations": "Branului, Teilor, Anton, Oser, Blajului"
+    },
+    {
+        "line_id": 9,
+        "number": "77",
+        "stations": "Vuia, Emerson, Cora, Dacia, Anton, Oser, Campina, Farmec"
+    }
+]

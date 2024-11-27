@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lines><Line id="2" number="55"><Station>Central</Station></Line>
+<Line id="3" number="8"><Station>Gara</Station><Station>Viteazu</Station></Line>
+<Line id="4" number="56"><Station>Alba</Station><Station>Constanta</Station><Station>Floresti</Station><Station>Comanesti</Station></Line>
+<Line id="5" number="23"><Station>Vlaicu</Station><Station>Vuia</Station><Station>B-dul_Muncii</Station><Station>Borhanci</Station><Station>Agro</Station><Station>Emerson</Station></Line>
+<Line id="6" number="45"><Station>Vivo</Station><Station>Moldovan</Station><Station>ParcCentral</Station><Station>Cora</Station><Station>Miraslau</Station><Station>Dacia</Station><Station>Buzau</Station></Line>
+<Line id="7" number="122"><Station>Branului</Station><Station>Teilor</Station><Station>Anton</Station><Station>Oser</Station><Station>Blajului</Station></Line>
+<Line id="9" number="77"><Station>Vuia</Station><Station>Emerson</Station><Station>Cora</Station><Station>Dacia</Station><Station>Anton</Station><Station>Oser</Station><Station>Campina</Station><Station>Farmec</Station></Line>
+</Lines>
