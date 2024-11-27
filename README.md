@@ -39,4 +39,35 @@ The database consists of the following tables:
 
 - **Python**: The programming language used to develop the application.
 - **SQLite**: A lightweight database used to store user data, transport lines, stations, and connections.
-- **Tkinter**: The library used for creating the graphi
+- **Tkinter**: The library used for creating the graphical user interface.
+- **NetworkX**: A library used to compute and visualize the shortest path between stations.
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/public-transportation-routing-system.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd public-transportation-routing-system
+    ```
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Run the application:
+    ```bash
+    python main.py
+    ```
+
+## Project Structure
+
+## Contribution
+
+1. Fork the repository.
+2. Create a new branch for your changes (`git checkout -b feature-name`).
+3. Make your changes and commit them (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Create a new Pull Request.
+
